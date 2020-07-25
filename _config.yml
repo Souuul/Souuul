@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Sol Han"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/image/그림1.png"
   bio              : "I'm an **AI engineer**"
   location         : "Seoul"
   email            : #"hans53400@naver.com"
