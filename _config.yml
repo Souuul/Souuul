@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Sol Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**I'm an **AI engineer**"
+  bio              : "I'm an **AI engineer**"
   location         : "Seoul"
-  email            : "hans53400@naver.com"
+  email            : #"hans53400@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
