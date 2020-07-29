@@ -1,7 +1,7 @@
 ---
 title:  "Python_Text operation (str Data Type)"
 header:
-  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+  teaser: "/assets/image/Text Operation.png"
 categories: 
   - Jekyll
   - Minimal mistake
